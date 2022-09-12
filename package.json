@@ -11,6 +11,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "(https://github.com/valluvanraman/valljs-npm-package.git)"
+    "url": "git+https://github.com/valluvanraman/valljs-npm-package.git"
   }
 }
