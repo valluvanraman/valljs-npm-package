@@ -1,5 +1,5 @@
 {
-  "name": "valljs",
+  "name": "@valluvanraman/valljs",
   "version": "1.0.0",
   "description": "Utility Functions",
   "main": "index.js",
