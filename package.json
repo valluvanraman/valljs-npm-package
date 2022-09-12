@@ -1,0 +1,16 @@
+{
+  "name": "valljs",
+  "version": "1.0.0",
+  "description": "Utility Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Valluvan Raman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/valluvanraman/valljs-npm-package.git)"
+  }
+}
